@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\secur\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldEB\\HelloWorldEB\\HelloWorldEB.csproj",
-      "projectName": "HelloWorldEB",
-      "projectPath": "C:\\Users\\secur\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldEB\\HelloWorldEB\\HelloWorldEB.csproj",
+      "projectUniqueName": "C:\\Users\\secur\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
+      "projectName": "HelloWorldUserEB",
+      "projectPath": "C:\\Users\\secur\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
       "packagesPath": "C:\\Users\\secur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\secur\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldEB\\HelloWorldEB\\obj\\",
+      "outputPath": "C:\\Users\\secur\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldUserEB\\HelloWorldUserEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\secur\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorldEB
+namespace HelloWorldUserEB
 {
     class Program
     {
